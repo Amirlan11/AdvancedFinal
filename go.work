@@ -1,0 +1,6 @@
+go 1.19
+
+use ./computers_service
+use token_service
+use electronicstore
+use phones_service
